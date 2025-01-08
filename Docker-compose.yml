@@ -32,4 +32,7 @@ services:
 volumes:
   userdata:
 
-
+#to run the docker-compose.yml file
+#docker-compose up
+#localhost:8080 for mysal adminer db 
+#localhost:80 for photogram app
